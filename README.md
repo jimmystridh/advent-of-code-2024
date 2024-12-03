@@ -1,6 +1,8 @@
-# Advent of Code Multi-Language Implementation
+# Advent of Code Multi-Language Implementation using o1-preview
 
 This repository contains implementations of Advent of Code problems in multiple programming languages using a consistent, functional-first approach. Each solution demonstrates idiomatic usage of the target language while maintaining similar algorithmic approaches across implementations.
+
+Implementations are done **entirely by OpenAI o1-preview**, and so far it has solved these basically on the first try, albeit with some compilation problems it had to fix for the Cuda implementation.
 
 ## Languages Implemented
 
